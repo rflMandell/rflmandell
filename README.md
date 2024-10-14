@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Rafael Mandel from São Paulo - Brazil<br><br>- 🔭 I’m working as motion graphics designer<br>- 📚 I'm currently learning Software Engineer<br>- ⚡ In my free time I play games and read books</p>
+<p align="left">I'm Rafael Mandel from São Paulo - Brazil<br><br>- 🔭 I’m working as motion graphics designer<br>- 📚 I'm currently studying Software Engineering at FIAP<br>- ⚡ In my free time I play games and read books</p>
 
 ###
 
